@@ -142,38 +142,10 @@
       <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/mitrais/cdc/command/AddUserCommand.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/mitrais/cdc/dto/UserDto.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/common-lib/src/main/java/com/mitrais/cdc/event/UserCreatedEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-lib/target/classes/com/mitrais/cdc/command/AddUserCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-lib/target/classes/com/mitrais/cdc/dto/UserDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-lib/target/classes/com/mitrais/cdc/event/UserCreatedEvent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-lib/target/common-lib-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-lib/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-lib/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-lib/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-lib/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event-handler/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event-handler/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event-handler/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event-handler/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event-handler/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event-handler/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event-handler/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event-handler/src/main/java/com/mitrais/cdc/eventhandler/EventHandlerApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/event-handler/src/main/java/com/mitrais/cdc/eventhandler/configuration/AxonConfiguration.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/event-handler/src/main/java/com/mitrais/cdc/eventhandler/eventhandler/UserEventHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event-handler/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-api/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-api/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-api/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-api/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-api/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-api/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-api/src/main/java/com/mitrais/cdc/restapi/RestApiApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rest-api/src/main/java/com/mitrais/cdc/restapi/configuration/AxonConfiguration.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rest-api/src/main/java/com/mitrais/cdc/restapi/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-api/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-api/src/main/resources/udp_config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rest-api/src/test/java/com/mitrais/cdc/restapi/RestApiApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../.gitattributes" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../9781484245002.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Christudas_Ch06_Source/ch06/ch06-01/build.bat" beforeDir="false" />
@@ -759,7 +731,6 @@
       <change beforePath="$PROJECT_DIR$/../Ax2-Commands-Multi-Event-Handler-Distributed/06-Ecom-common/src/main/java/com/acme/ecom/product/dto/ProductDTO.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ax2-Commands-Multi-Event-Handler-Distributed/README.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ax2-Commands-Multi-Event-Handler-Distributed/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/handle-command-and-create-event/src/main/resources/udp_config.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Christudas_Ch13_Source/ch13/ch13-01/XA-TX-Distributed/Broker-MySQL-ActiveMQ/make.bat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Christudas_Ch13_Source/ch13/ch13-01/XA-TX-Distributed/Broker-MySQL-ActiveMQ/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Christudas_Ch13_Source/ch13/ch13-01/XA-TX-Distributed/Broker-MySQL-ActiveMQ/run.bat" beforeDir="false" />
@@ -2129,7 +2100,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/event-handler/src/main/java/com/mitrais/cdc/eventhandler/eventhandler" />
+    <property name="last_opened_file_path" value="F:/CDC BootCamp/CDCGOODJAVABOOTCAMP-PROJECT/axon-cqrs-distributted-app" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -2157,7 +2128,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.command-handler [clean,install...]">
+  <component name="RunManager" selected="Spring Boot.EventHandlerApplication">
     <configuration name="command-handler [clean,install...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -2312,18 +2283,17 @@
       <workItem from="1578376530748" duration="163000" />
       <workItem from="1578376759596" duration="4894000" />
       <workItem from="1578443124718" duration="9207000" />
-      <workItem from="1578453302725" duration="487000" />
+      <workItem from="1578453302725" duration="1528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19330000" />
+    <option name="totallyTimeSpent" value="20371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
