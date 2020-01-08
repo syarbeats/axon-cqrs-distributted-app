@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>common-lib</module>
+        <module>command-handler</module>
+        <module>event-handler</module>
+        <module>rest-api</module>
     </modules>
 
 

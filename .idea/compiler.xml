@@ -11,6 +11,7 @@
         <module name="command-handler" />
         <module name="commonlib" />
         <module name="rest-api" />
+        <module name="common-lib" />
       </profile>
     </annotationProcessing>
   </component>
