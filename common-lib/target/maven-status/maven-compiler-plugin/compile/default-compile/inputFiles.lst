@@ -1,0 +1,3 @@
+F:\Microservices\Code\practical-microservices-architectural-patterns\Christudas_Ch12_Source\ch12\ch12-02\axoncqrsdistributedjvm\common-lib\src\main\java\com\mitrais\cdc\dto\UserDto.java
+F:\Microservices\Code\practical-microservices-architectural-patterns\Christudas_Ch12_Source\ch12\ch12-02\axoncqrsdistributedjvm\common-lib\src\main\java\com\mitrais\cdc\command\AddUserCommand.java
+F:\Microservices\Code\practical-microservices-architectural-patterns\Christudas_Ch12_Source\ch12\ch12-02\axoncqrsdistributedjvm\common-lib\src\main\java\com\mitrais\cdc\event\UserCreatedEvent.java

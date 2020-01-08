@@ -1,0 +1,3 @@
+com\mitrais\cdc\dto\UserDto.class
+com\mitrais\cdc\event\UserCreatedEvent.class
+com\mitrais\cdc\command\AddUserCommand.class
