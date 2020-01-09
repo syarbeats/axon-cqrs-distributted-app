@@ -7,11 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="event-handler" />
-        <module name="command-handler" />
         <module name="commonlib" />
         <module name="rest-api" />
+        <module name="event-handler" />
         <module name="common-lib" />
+        <module name="command-handler" />
+        <module name="rest-api-read-user" />
       </profile>
     </annotationProcessing>
   </component>
@@ -20,6 +21,7 @@
       <module name="command-handler" options="-parameters" />
       <module name="event-handler" options="" />
       <module name="rest-api" options="-parameters" />
+      <module name="rest-api-read-user" options="-parameters" />
     </option>
   </component>
 </project>

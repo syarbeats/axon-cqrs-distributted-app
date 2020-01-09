@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/rest-api/pom.xml" />
         <option value="$PROJECT_DIR$/handle-command-and-create-event/pom.xml" />
         <option value="$PROJECT_DIR$/event-handler/pom.xml" />
+        <option value="$PROJECT_DIR$/rest-api-read-user/pom.xml" />
       </list>
     </option>
   </component>

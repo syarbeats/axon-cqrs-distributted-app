@@ -108,6 +108,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/rest-api-read-user/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rest-api-read-user/src/main/java/com/mitrais/cdc/restapireaduser/controller/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rest-api-read-user/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/rest-api/pom.xml">
           <value>
             <set />
