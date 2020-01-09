@@ -10,5 +10,4 @@ RabbitMQ is used as message broker to handle messaging system.
 
 ## Deployment Architecture
 
-<img width="551" alt="CQRS" src="https://user-images.githubusercontent.com/18225438/71958152-250b5d00-3222-11ea-8e77-29d3ad746045.PNG">
-
+<img width="486" alt="CQRS2" src="https://user-images.githubusercontent.com/18225438/72029937-1a9ca200-32ba-11ea-917c-6e87ec56a725.PNG">
